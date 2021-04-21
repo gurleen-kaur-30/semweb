@@ -15,3 +15,54 @@ Type impl.DefaultIMTech is not enhanced.
 [2021-04-21 10:31:11 #5 store] 
 Database '/home/gurleen/eclipse-workspace/dm/jars/db/college_db.odb' is closed by 15485@gurleen-Predator-PH315-52
 
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-21 19:36:35 #1 store] 
+Database '/home/gurleen/eclipse-workspace/dm/jars/db/college_db.odb' is opened by 7905@gurleen-Predator-PH315-52
+
+[2021-04-21 19:36:35 #2 store] 
+Configuration path: ?
+
+[2021-04-21 19:36:35 #3 type] 
+Type impl.DefaultCollege is not enhanced.
+
+[2021-04-21 19:36:35 #4 type] 
+Type impl.DefaultIMTech is not enhanced.
+
+[2021-04-21 19:36:36 #5 store] 
+Database '/home/gurleen/eclipse-workspace/dm/jars/db/college_db.odb' is closed by 7905@gurleen-Predator-PH315-52
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-21 19:37:07 #1 store] 
+Database '/home/gurleen/eclipse-workspace/dm/jars/db/college_db.odb' is opened by 8011@gurleen-Predator-PH315-52
+
+[2021-04-21 19:37:07 #2 store] 
+Configuration path: ?
+
+[2021-04-21 19:37:07 #3 type] 
+Type impl.DefaultCollege is not enhanced.
+
+[2021-04-21 19:37:07 #4 type] 
+Type impl.DefaultIMTech is not enhanced.
+
+[2021-04-21 19:37:07 #5 store] 
+Database '/home/gurleen/eclipse-workspace/dm/jars/db/college_db.odb' is closed by 8011@gurleen-Predator-PH315-52
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-21 19:38:11 #1 store] 
+Database '/home/gurleen/eclipse-workspace/dm/jars/db/college_db.odb' is opened by 8141@gurleen-Predator-PH315-52
+
+[2021-04-21 19:38:11 #2 store] 
+Configuration path: ?
+
+[2021-04-21 19:38:11 #3 type] 
+Type impl.DefaultCollege is not enhanced.
+
+[2021-04-21 19:38:11 #4 type] 
+Type impl.DefaultIMTech is not enhanced.
+
+[2021-04-21 19:38:12 #5 store] 
+Database '/home/gurleen/eclipse-workspace/dm/jars/db/college_db.odb' is closed by 8141@gurleen-Predator-PH315-52
+
