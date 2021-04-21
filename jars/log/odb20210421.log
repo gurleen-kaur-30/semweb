@@ -1,0 +1,17 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-04-21 10:31:10 #1 store] 
+Database '/home/gurleen/eclipse-workspace/dm/jars/db/college_db.odb' is opened by 15485@gurleen-Predator-PH315-52
+
+[2021-04-21 10:31:10 #2 store] 
+Configuration path: ?
+
+[2021-04-21 10:31:11 #3 type] 
+Type impl.DefaultCollege is not enhanced.
+
+[2021-04-21 10:31:11 #4 type] 
+Type impl.DefaultIMTech is not enhanced.
+
+[2021-04-21 10:31:11 #5 store] 
+Database '/home/gurleen/eclipse-workspace/dm/jars/db/college_db.odb' is closed by 15485@gurleen-Predator-PH315-52
+
